@@ -604,6 +604,127 @@ export const projects: ProjectDefinition[] = [
       },
     ],
   },
+
+  /**
+   * PR – PulseReach Media (Website)
+   */
+  {
+    id: "pulsereach-media",
+    universe: 6,
+    slug: "project-6",
+    name: {
+      en: "PulseReach Media Website",
+      ar: "PulseReach Media – موقع وكالة سوشيال ميديا (صفحات بيع باقات)",
+    },
+    tagline: {
+      en: "Conversion-focused bilingual landing pages for social media management packages (WordPress + coded templates).",
+      ar: "صفحات بيع باقات سوشيال ميديا ثنائية اللغة مع قوالب مبرمجة تركّز على التحويل داخل ووردبريس.",
+    },
+    description: {
+      en: [
+        "PulseReach Media is a bilingual (AR/EN) marketing agency website built on WordPress using Astra Child Theme and custom coded page templates.",
+        "The project focuses on clean, modern UI, strong conversion sections (hero, social proof, pricing, FAQs, CTAs), RTL-first Arabic layout, and scalable template-based pages for Services, Packages, Results, and Contact with WPForms integration.",
+      ].join(" "),
+      ar: [
+        "PulseReach Media هو موقع ثنائي اللغة (عربي/إنجليزي) لوكالة تسويق وسوشيال ميديا مبني على WordPress باستخدام Astra Child Theme وقوالب صفحات مبرمجة (Coded Templates).",
+        "يركّز المشروع على واجهة حديثة وتجربة تحويل قوية عبر أقسام الهيرو، إثبات اجتماعي، الباقات والأسعار، الأسئلة الشائعة، وCTA واضح، مع دعم RTL للعربية وقابلية التوسع لصفحات الخدمات والباقات والنتائج والتواصل ودمج WPForms.",
+      ].join(" "),
+    },
+    techStack: [
+      "WordPress",
+      "PHP",
+      "Astra (Child Theme)",
+      "HTML5",
+      "CSS (Design System Variables)",
+      "WPForms",
+      "Rank Math SEO",
+    ],
+    repoUrl: "",
+    liveUrl: "https://pulsereachmedia.wuaze.com/",
+    screens: [
+      {
+        id: "pulsereach-1",
+        src: "/assets/project6/1.png",
+        alt: "PulseReach Media home hero section (Arabic RTL)",
+      },
+      {
+        id: "pulsereach-2",
+        src: "/assets/project6/2.png",
+        alt: "PulseReach Media pricing packages section",
+      },
+      {
+        id: "pulsereach-3",
+        src: "/assets/project6/3.png",
+        alt: "PulseReach Media services section",
+      },
+      {
+        id: "pulsereach-4",
+        src: "/assets/project6/4.png",
+        alt: "PulseReach Media results/case studies page",
+      },
+      {
+        id: "pulsereach-5",
+        src: "/assets/project6/5.png",
+        alt: "PulseReach Media contact page with WPForms/CTA",
+      },
+      {
+        id: "pulsereach-6",
+        src: "/assets/project6/6.png",
+        alt: "PulseReach Media mobile navigation and responsive layout",
+      },
+      {
+        id: "pulsereach-7",
+        src: "/assets/project6/7.png",
+        alt: "PulseReach Media mobile navigation and responsive layout",
+      },
+      {
+        id: "pulsereach-8",
+        src: "/assets/project6/8.png",
+        alt: "PulseReach Media mobile navigation and responsive layout",
+      },
+      {
+        id: "pulsereach-9",
+        src: "/assets/project6/9.png",
+        alt: "PulseReach Media mobile navigation and responsive layout",
+      },
+    ],
+    highlights: [
+      {
+        id: "keyPoints",
+        label: {
+          en: "Key points",
+          ar: "أبرز النقاط",
+        },
+        body: {
+          en: "Bilingual AR/EN, RTL-first layout, coded templates for 8 pages, pricing and conversion sections, reusable design system, and fast iteration inside WordPress.",
+          ar: "ثنائي اللغة عربي/إنجليزي، دعم RTL بشكل صحيح، قوالب مبرمجة لعدة صفحات (حتى 8 صفحات)، أقسام تحويل قوية (باقات/CTA/FAQ)، نظام تصميم CSS قابل لإعادة الاستخدام، وسهولة تطوير وتعديل داخل ووردبريس.",
+        },
+      },
+      {
+        id: "focus",
+        label: {
+          en: "Focus",
+          ar: "التركيز",
+        },
+        body: {
+          en: "High-conversion landing structure, clean responsive UI, SEO-ready pages, and scalable template-driven architecture for services and packages.",
+          ar: "هيكلة Landing Pages عالية التحويل، تصميم Responsive نظيف، جاهزية SEO، وبنية Templates قابلة للتوسع لصفحات الخدمات والباقات.",
+        },
+      },
+      {
+        id: "role",
+        label: {
+          en: "My role",
+          ar: "الدور",
+        },
+        body: {
+          en: "UI structure, custom template coding (PHP), design system CSS, content architecture, and basic SEO setup.",
+          ar: "بناء الهيكلة والواجهات، برمجة قوالب الصفحات (PHP)، تصميم نظام CSS، تنظيم المحتوى وأقسام التحويل، وتجهيز أساسيات SEO.",
+        },
+      },
+    ],
+  },
 ];
+
 
 export type ProjectId = (typeof projects)[number]["id"];

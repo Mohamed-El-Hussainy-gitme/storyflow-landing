@@ -149,3 +149,37 @@ src/
 │   └── contact.ts            # CONTACT_EMAIL, CONTACT_GITHUB, CONTACT_LINKEDIN
 └── types/
     └── content.ts            # shared types for localized strings & project copy
+
+
+If you want to reflect the total count and variety, you can add a line under “All showcased projects are live…”:
+
+Now includes a real-world WordPress build featuring a custom Astra child theme with coded landing templates and RTL-first styling.
+
+
+| #  | Project                           | Type                                                  | Live Demo                                                                                                            | Repository                                                                                                                         |
+| -- | --------------------------------- | ----------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
+| 01 | **Mini Shop – Single Page Store** | Single-page e-commerce (HTML/CSS/JS)                  | [https://mohamedzainb2-eng.github.io/single-page-website/](https://mohamedzainb2-eng.github.io/single-page-website/) | [https://github.com/mohamedzainb2-eng/single-page-website](https://github.com/mohamedzainb2-eng/single-page-website)               |
+| 02 | **Real Estate UI**                | RTL real estate interface (React/Vite)                | [https://mohamedzainb2-eng.github.io/real-estate-ui/](https://mohamedzainb2-eng.github.io/real-estate-ui/)           | [https://github.com/mohamedzainb2-eng/real-estate-ui](https://github.com/mohamedzainb2-eng/real-estate-ui)                         |
+| 03 | **Admin Control Dashboard**       | Admin dashboard (React/Vite/TS)                       | [https://mohamedzainb2-eng.github.io/dashboard-admin/](https://mohamedzainb2-eng.github.io/dashboard-admin/)         | [https://github.com/mohamedzainb2-eng/admin-dashboard-react-vite](https://github.com/mohamedzainb2-eng/admin-dashboard-react-vite) |
+| 04 | **Animation Studio**              | Web-based animation editor                            | [https://mohamedzainb2-eng.github.io/animation-studio/](https://mohamedzainb2-eng.github.io/animation-studio/)       | [https://github.com/mohamedzainb2-eng/animation-studio](https://github.com/mohamedzainb2-eng/animation-studio)                     |
+| 05 | **HoloSpace OS**                  | 3D web spatial operating system                       | [https://mohamedzainb2-eng.github.io/holospace-web/](https://mohamedzainb2-eng.github.io/holospace-web/)             | [https://github.com/mohamedzainb2-eng/holospace-spatial-os](https://github.com/mohamedzainb2-eng/holospace-spatial-os)             |
+| 06 | **PulseReach Media**              | WordPress agency site (Astra child + coded templates) | [https://pulsereachmedia.wuaze.com/](https://pulsereachmedia.wuaze.com/)                                             | [https://github.com/USERNAME/REPO](https://github.com/USERNAME/REPO) (update)                                                      |
+
+
+
+3) Update the “Concept” Section (Optional but recommended)
+
+Add one bullet to reflect the WordPress/real-client style work:
+
+A mix of React/Vite apps and a production-style WordPress build (custom child theme + coded templates) to demonstrate versatility.
+
+
+06. PulseReach Media (WordPress)
+
+Type: Agency conversion website built on WordPress
+
+Focus: Coded templates (PHP) + reusable CSS design system + conversion sections (pricing/CTA/FAQ)
+
+Highlights: RTL-first Arabic layout, bilingual-ready structure, WPForms contact integration
+
+Live: https://pulsereachmedia.wuaze.com/
