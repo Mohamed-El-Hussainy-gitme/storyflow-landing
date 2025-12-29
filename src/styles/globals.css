@@ -61,6 +61,16 @@ body::before {
   opacity: 0.9;
   z-index: -1;
 }
+@layer base {
+  body {
+    font-family: "Cairo", system-ui, -apple-system, "Segoe UI", sans-serif;
+  }
+
+  h1, h2, h3, .font-display {
+    font-family: "IBM Plex Sans Arabic", "Cairo", system-ui, sans-serif;
+  }
+}
+
 
 /* Cinematic snapping between sections on desktop */
 @media (min-width: 1024px) {
