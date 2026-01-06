@@ -60,8 +60,8 @@ export const projects: ProjectDefinition[] = [
       ].join(" "),
     },
     techStack: ["HTML", "CSS", "JavaScript"],
-    repoUrl: "https://github.com/mohamedzainb2-eng/single-page-website",
-    liveUrl: "https://mohamedzainb2-eng.github.io/single-page-website/",
+    repoUrl: "https://github.com/Mohamed-El-Hussainy-gitme/single-page-website",
+    liveUrl: "https://mohamed-el-hussainy-gitme.github.io/single-page-website/",
     screens: [
       {
         id: "mini-shop-1",
@@ -174,8 +174,8 @@ export const projects: ProjectDefinition[] = [
       "React Leaflet",
       "Swiper",
     ],
-    repoUrl: "https://github.com/mohamedzainb2-eng/real-estate-ui",
-    liveUrl: "https://mohamedzainb2-eng.github.io/real-estate-ui/",
+    repoUrl: "https://github.com/Mohamed-El-Hussainy-gitme/real-estate-ui",
+    liveUrl: "https://mohamed-el-hussainy-gitme.github.io/real-estate-ui/",
     screens: [
       {
         id: "real-estate-1",
@@ -296,8 +296,8 @@ export const projects: ProjectDefinition[] = [
       "Framer Motion",
     ],
     repoUrl:
-      "https://github.com/mohamedzainb2-eng/admin-dashboard-react-vite",
-    liveUrl: "https://mohamedzainb2-eng.github.io/dashboard-admin/",
+      "https://github.com/Mohamed-El-Hussainy-gitme/dashboard-admin",
+    liveUrl: "https://mohamed-el-hussainy-gitme.github.io/dashboard-admin",
     screens: [
       {
         id: "admin-1",
@@ -413,8 +413,8 @@ export const projects: ProjectDefinition[] = [
       ].join(" "),
     },
     techStack: ["HTML", "CSS", "TypeScript", "Framer Motion"],
-    repoUrl: "https://github.com/mohamedzainb2-eng/animation-studio",
-    liveUrl: "https://mohamedzainb2-eng.github.io/animation-studio/",
+    repoUrl: "https://github.com/Mohamed-El-Hussainy-gitme/animation-studio",
+    liveUrl: "https://mohamed-el-hussainy-gitme.github.io/animation-studio/",
     screens: [
       {
         id: "animation-1",
@@ -509,8 +509,8 @@ export const projects: ProjectDefinition[] = [
       "Framer Motion",
       "HTML5 Audio",
     ],
-    repoUrl: "https://github.com/mohamedzainb2-eng/holospace-spatial-os",
-    liveUrl: "https://mohamedzainb2-eng.github.io/holospace-web/",
+    repoUrl: "https://github.com/Mohamed-El-Hussainy-gitme/holospace-web",
+    liveUrl: "https://mohamed-el-hussainy-gitme.github.io/holospace-web/",
     screens: [
       {
         id: "holospace-1",
